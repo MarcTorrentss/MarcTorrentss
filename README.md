@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ## :arrow_right: Follow me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mtorrents/)
 
-[![CV_esp](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://marctorrentss-cves.streamlit.app/)  
+[![CV_esp](https://img.shields.io/badge/streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://marctorrentss-cves.streamlit.app/)  
 
 ## :computer: Tech tools
 ![Python](https://img.shields.io/badge/python-ffdd54?style=for-the-badge&logo=python&logoColor=3670A0)
