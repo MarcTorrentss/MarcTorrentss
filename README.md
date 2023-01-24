@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Marc Torrents Domènech
 
-[[LinkedIn]](https://www.linkedin.com/in/mtorrents/)
+[LinkedIn](https://www.linkedin.com/in/mtorrents/)
 
 [CV_esp](https://marctorrentss-cves.streamlit.app/)  
 
