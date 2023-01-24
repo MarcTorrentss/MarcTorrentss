@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 # I'm Marc Torrents Domènech
-🗣️ Catalan, :es: Spanish, :uk: English, Danish
+🗣️ :and: Catalan, :es: Spanish, :uk: English
 👀 I’m interested in travelling, sports, people and learning
 🌱 I’m currently learning Python, R and Data Analytics and starting with SQL and Git
 💞️ I’m looking to collaborate on some project
