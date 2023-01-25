@@ -16,9 +16,10 @@
 
 ## 📓 Currículum
 [![CV_esp](https://img.shields.io/badge/streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://marctorrentss-cves.streamlit.app/)
-:🇪🇸:
+![image](https://user-images.githubusercontent.com/122527618/214580527-82e3d6b4-d4a9-42e5-9af9-4d0081ab4e49.png)
 [![CV_eng](https://img.shields.io/badge/streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://marctorrentss-cven.streamlit.app/)
-:🇬🇧:
+![image](https://user-images.githubusercontent.com/122527618/214580587-01f40f2f-5d63-41bb-a935-d019e2c9e2dd.png)
+
 
 ## :computer: Tech tools
 ![Python](https://img.shields.io/badge/python-ffdd54?style=for-the-badge&logo=python&logoColor=3670A0)
