@@ -13,7 +13,7 @@
 
 💞️ I’m looking to collaborate on some project
 
-📫 How to reach me mtorrensdomenech@gmail.com / marc.torrents@bootcamp-upgrade.com
+📫 How to reach me mtorrensdomenech@gmail.com / mtorrend@emeal.nttdata.com
 
 ## :arrow_right: Follow me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mtorrents/)
