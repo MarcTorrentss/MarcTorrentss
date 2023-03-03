@@ -6,6 +6,7 @@
 
 # I'm Marc Torrents Domènech
 **Junior data engineer in [NTT Data](https://es.nttdata.com/)**
+<br>
 
 🗣️ Catalan, :es: Spanish, :uk: English
 
