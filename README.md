@@ -22,7 +22,7 @@
 ## :arrow_right: Follow me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mtorrents/)
 
-## 📓 Curriculum
+## 📓 Currículum
 [![CV_esp](https://img.shields.io/badge/streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://marctorrentss-cves.streamlit.app/)
 [![es](https://img.shields.io/badge/-esp-lightgrey)](https://marctorrentss-cves.streamlit.app/)
 
