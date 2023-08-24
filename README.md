@@ -49,6 +49,6 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Adobe Analytics](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Adobe Analytics](![Static Badge](https://img.shields.io/badge/Adobe%20Analytics?style=flat)
+![Adobe Analytics](https://img.shields.io/badge/Adobe%20Analytics?style=flat)
 ![Tealium](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
